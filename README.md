@@ -47,7 +47,7 @@ Engenheiro de Software focado em **arquitetura moderna, sistemas distribuídos e
 <tr>
 <td>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 * Docker · Kubernetes
 * Azure Cloud · Azure DevOps
@@ -56,7 +56,7 @@ Engenheiro de Software focado em **arquitetura moderna, sistemas distribuídos e
 </td>
 <td>
 
-### 🧪 Qualidade & Arquitetura
+### Qualidade & Arquitetura
 
 * xUnit · JUnit · Mockito
 * Clean Code · Result Pattern
@@ -89,17 +89,6 @@ Engenheiro de Software focado em **arquitetura moderna, sistemas distribuídos e
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F97924?style=for-the-badge\&logo=huggingface)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai)
-
-</div>
-
----
-
-## Estatísticas & Atividade
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheux147&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheux147&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
